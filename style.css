@@ -16,7 +16,7 @@ body
     margin: 0px;
 }
 
-#Start , #number_of_objects , #status
+#Start , #number_of_objects , #status , #object_status
 {
     font-size: 18px;
 }
@@ -25,8 +25,7 @@ canvas
 {
     border: 2px solid white;
     border-radius: 10px;
-    margin-top: 130px;
-    box-shadow: 5px 5px 5px white;
+    margin-top: 200px;
 }
 
 h4
